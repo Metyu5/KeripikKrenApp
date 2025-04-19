@@ -31,7 +31,7 @@ const SplashScreen = () => {
     // Pindah ke RegisterScreen setelah 3 detik
     const timeout = setTimeout(() => {
       navigation.replace('Register');
-    }, 9000);
+    }, 5000);
 
     // Clear timeout kalau komponen unmount
     return () => clearTimeout(timeout);

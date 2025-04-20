@@ -301,8 +301,8 @@ const styles = StyleSheet.create({
     gap: 15,
   },
   socialButton: {
-    width: 50,
-    height: 50,
+    width: 40,
+    height: 40,
     borderRadius: 25,
     backgroundColor: '#fff', 
     justifyContent: 'center',

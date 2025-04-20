@@ -54,7 +54,7 @@ const SplashScreen = () => {
         isVisible={true}
         size={80}
         type="ThreeBounce"
-        color="#FFE100"
+        color="#FFFFFF"
         style={styles.spinner}
       />
     </SafeAreaView>
